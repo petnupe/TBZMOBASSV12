@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget codeVersion="305" id="com.tecbiz.tecbizassociado" version="305" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget codeVersion="306" id="com.tecbiz.tecbizassociado" version="306" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TecBiz Associado</name>
     <description>
         Aplicativo para consulta de saldos, extratos e lojas credenciadas.
@@ -9,6 +9,7 @@
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="phonegap-version" value="cli-7.0.1" />
     <platform name="ios">
     	<icon height="1024" platform="ios" src="www/res/icons/ios/icon.png" width="1024" />
         <icon height="57" platform="ios" src="www/res/icons/ios/icon-57.png" width="57" />
