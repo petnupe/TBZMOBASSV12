@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.tecbiz.tecbizassociado" version="3.0.0" codeVersion="100" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.tecbiz.tecbizassociado" version="300" codeVersion="300" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TecBiz Associado</name>
     <description>
         Aplicativo para consulta de saldos, extratos e lojas credenciadas.
