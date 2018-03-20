@@ -9,8 +9,8 @@
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
-    <plugin name="cordova-plugin-dialogs" source="npm" spec="~1.3.4" />
-    <plugin name="cordova-plugin-network-information" source="npm" spec="~1.3.4" />
+    <plugin name="cordova-plugin-dialogs" source="npm" spec="1.3.4" />
+    <plugin name="cordova-plugin-network-information" source="npm" spec="1.3.4" />
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
         <icon height="114" platform="ios" src="www/res/icon/ios/icon@2x.png" width="114" />
